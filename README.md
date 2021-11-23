@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Jorge Cedeño 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Java Backend</strong> con 2 años de experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador Java Backend</strong> con 2 años de experiencia.<br /></p>
 <!--
 <p align="center">
    <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
